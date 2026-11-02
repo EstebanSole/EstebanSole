@@ -1,7 +1,6 @@
 # 💫 About Me:
-🔭 I’m currently working on  <br>Web development projects, hosting solutions, automation tools, and fivem/redm systems.<br><br>👯 I’m looking to collaborate on  <br>Web platforms, SaaS projects, hosting infrastructure, and developer tools.<br><br>🤝 I’m looking for help with  <br>Scaling infrastructure, backend architecture, and high-performance systems.<br><br>🌱 I’m currently learning  <br>Advanced backend development, Linux server optimization, and cloud technologies.<br><br>💬 Ask me about  <br>Web development, hosting, server management, automation, and custom solutions.<br><br>⚡ Fun fact  <br>I enjoy optimizing systems and building scalable solutions from the ground up.
+🔭 I’m currently working on  <br>Web development projects, hosting solutions, automation tools, and fivem/redm systems.<br><br>👯 I’m looking to collaborate on  <br>Web platforms, SaaS projects, hosting infrastructure, and developer tools.<br><br>🤝 I’m looking for help with  <br>Scaling infrastructure, backend architecture, and high-performance systems.<br><br>🌱 I’m currently learning  <br>Advanced backend development, Linux server optimization, and cloud technologies.<br><br>💬 Ask me about  <br>Web development, hosting, server management, automation, and custom solutions.<br><br>🚀 Founder of Kovbi — Development of custom systems and scripts for FiveM & RedM. <br><br>⚡ Fun fact  <br>I enjoy optimizing systems and building scalable solutions from the ground up.
 
-Also, Im 🚀 Founder of Kovbi — Development of custom systems and scripts for FiveM & RedM.
 
 
 ## 🌐 Socials:
